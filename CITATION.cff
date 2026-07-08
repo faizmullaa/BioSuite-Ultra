@@ -5,9 +5,7 @@ type: software
 authors:
   - family-names: Touri
     given-names: Sahand
-    orcid: "https://orcid.org/0000-0000-0000-0000"
 repository-code: "https://github.com/sahandtkod-byte/BioSuite-Ultra"
-doi: "10.5281/zenodo.21256296"
 url: "https://github.com/sahandtkod-byte/BioSuite-Ultra"
 abstract: >-
   BioSuite Ultra is a comprehensive open-source bioinformatics platform
@@ -32,8 +30,8 @@ keywords:
   - crispr
   - single-cell
 license: MIT
-version: 4.1.0
-date-released: "2026-07-07"
+version: 4.1.1
+date-released: "2026-07-08"
 preferred-citation:
   type: software
   title: "BioSuite Ultra: Comprehensive Open-Source Bioinformatics Platform"
@@ -41,6 +39,5 @@ preferred-citation:
     - family-names: Touri
       given-names: Sahand
   year: 2026
-  version: 4.1.0
-  doi: "10.5281/zenodo.21256296"
-url: "https://github.com/sahandtkod-byte/BioSuite-Ultra"
+  version: 4.1.1
+  url: "https://github.com/sahandtkod-byte/BioSuite-Ultra"
