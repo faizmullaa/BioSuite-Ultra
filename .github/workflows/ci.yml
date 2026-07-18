@@ -37,7 +37,7 @@ jobs:
           --ignore=tests/test_notebook.py \
           --ignore=tests/test_plotting_uncovered.py \
           --ignore=tests/test_databases_and_tools.py \
-          -x --timeout=30
+          -x
     
     - name: Upload coverage
       uses: codecov/codecov-action@v3
