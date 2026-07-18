@@ -8,7 +8,7 @@
 ![Version](https://img.shields.io/badge/Version-4.1.1-blueviolet)
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21256296.svg)
 ![Cloning](https://img.shields.io/badge/Molecular%20Cloning-Free-brightgreen)
-[![JOSS](https://img.shields.io/badge/JOSS-Submitted-blue.svg)](https://joss.theoj.org/papers/6efd11d9995ddc82d5d76403c32a4a2d)
+![JOSS](https://img.shields.io/badge/JOSS-Submitted-blue.svg)
 
 **The most comprehensive open-source bioinformatics platform.**
 
