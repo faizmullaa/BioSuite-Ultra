@@ -8,6 +8,8 @@ complement, codon translation, and base composition statistics.
 These functions operate on plain strings and do not require Biopython
 (except for GenBank parsing).
 """
+from __future__ import annotations
+
 import os
 import numpy as np
 

@@ -5,6 +5,8 @@ Provides tools for RNA-seq count data analysis including CPM/TPM normalization,
 two-group differential expression testing with multiple testing correction,
 and I/O for common count matrix formats (featureCounts, HTSeq).
 """
+from __future__ import annotations
+
 import numpy as np
 import pandas as pd
 from scipy import stats as sp_stats
